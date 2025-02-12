@@ -41,4 +41,6 @@ cursor.execute("CREATE TABLE IF NOT EXISTS users (name TEXT, age INTEGER)")
 conn.commit()
 conn.close()
 
+
 root.mainloop()
+
